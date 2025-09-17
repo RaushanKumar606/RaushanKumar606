@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello, I am Raushan Kumar Singh, a MERN Stack Developer interested in creating scalable web applications. I am interested in working on React, Node.js, and cloud computing. Also i am currently learning AI and Python for futuristic projects. Always excited to learn and contribute to open-source!"
 
-
+## Profile link:
+https://my-profile-two-iota.vercel.app/
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Raushan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raushan Singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Raushan Kumar singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raushan kumar singh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Raushan Kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mycollegelife0169) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Roshankumarsingh964@gmail.com) 
 
